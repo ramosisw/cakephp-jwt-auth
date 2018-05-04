@@ -112,3 +112,4 @@ payload as user info without querying datasource for matching user record.
 ## Further reading
 
 For an end to end usage example check out [this](http://www.bravo-kernel.com/2015/04/how-to-add-jwt-authentication-to-a-cakephp-3-rest-api/) blog post by Bravo Kernel.
+
