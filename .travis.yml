@@ -19,6 +19,9 @@ matrix:
 
     - php: 7.1
       env: PHPSTAN=1 DEFAULT=0
+    
+    - php: 7.1
+      env: DEFAULT=1
 
     - php: 5.6
       env: PREFER_LOWEST=1
