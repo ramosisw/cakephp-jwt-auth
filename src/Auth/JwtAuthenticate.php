@@ -269,7 +269,6 @@ class JwtAuthenticate extends BaseAuthenticate
         }
 
         $message = $this->_error->getMessage();
-        
         $exception = new $this->_config['unauthenticatedException']($message);
         throw $exception;
     }
