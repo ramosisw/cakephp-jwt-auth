@@ -1,1 +1,3 @@
-
+parameters:
+    ignoreErrors:
+        - '#Ternary operator condition is always true.#'
